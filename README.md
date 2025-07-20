@@ -1,4 +1,4 @@
-# ML_Zoomcamp_Comp_2024
+# ML Zoomcamp_Competition 2024
 ## My 6th Place Solution in the competition
 
 ### Competition Objective
